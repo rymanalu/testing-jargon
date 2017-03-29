@@ -1,2 +1,4 @@
 unit/vendor/
 unit/composer.lock
+mocks/vendor/
+mocks/composer.lock
