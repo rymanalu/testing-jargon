@@ -4,3 +4,5 @@ mocks/vendor/
 mocks/composer.lock
 stubs/vendor/
 stubs/composer.lock
+dummies/vendor/
+dummies/composer.lock
